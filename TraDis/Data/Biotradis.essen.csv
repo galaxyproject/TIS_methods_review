@@ -1,0 +1,407 @@
+locus_tag,gene_name,ncrna,start,end,strand,read_count,ins_index,gene_length,ins_count,fcn
+BW25113_0014,dnaK,0,12163,14079,1,955,0.0792905581637976,1917,152,chaperone Hsp70, with co-chaperone DnaJ
+BW25113_0023,rpsT,0,20815,21078,-1,11,0.0113636363636364,264,3,30S ribosomal subunit protein S20
+BW25113_0025,ribF,0,21407,22348,1,100,0.0169851380042463,942,16,bifunctional riboflavin kinase/FAD synthetase
+BW25113_0026,ileS,0,22391,25207,1,157,0.0149094781682641,2817,42,isoleucyl-tRNA synthetase
+BW25113_0027,lspA,0,25207,25701,1,34,0.0121212121212121,495,6,prolipoprotein signal peptidase (signal peptidase II)
+BW25113_0029,ispH,0,26277,27227,1,46,0.017875920084122,951,17,4-hydroxy-3-methylbut-2-enyl diphosphate reductase, 4Fe-4S protein
+BW25113_0031,dapB,0,28374,29195,1,39,0.00608272506082725,822,5,dihydrodipicolinate reductase
+BW25113_0048,folA,0,49823,50302,1,12,0.0104166666666667,480,5,dihydrofolate reductase
+BW25113_0054,lptD,0,54755,57109,-1,189,0.0169851380042463,2355,40,LPS assembly OM complex LptDE, beta-barrel component
+BW25113_0083,ftsL,0,87519,87884,1,189,0.0628415300546448,366,23,membrane bound cell division protein at septum containing leucine zipper motif
+BW25113_0084,ftsI,0,87900,89666,1,258,0.0237691001697793,1767,42,transpeptidase involved in septal peptidoglycan synthesis (penicillin-binding protein 3)
+BW25113_0085,murE,0,89653,91140,1,46,0.0120967741935484,1488,18,UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:meso-diaminopimelate ligase
+BW25113_0086,murF,0,91137,92495,1,220,0.0191317144959529,1359,26,UDP-N-acetylmuramoyl-tripeptide:D-alanyl-D-alanine ligase
+BW25113_0087,mraY,0,92489,93571,1,84,0.0175438596491228,1083,19,phospho-N-acetylmuramoyl-pentapeptide transferase
+BW25113_0088,murD,0,93574,94890,1,150,0.0167046317388003,1317,22,UDP-N-acetylmuramoyl-L-alanine:D-glutamate ligase
+BW25113_0089,ftsW,0,94890,96134,1,248,0.0329317269076305,1245,41,lipid II flippase; integral membrane protein involved in stabilizing FstZ ring during cell division
+BW25113_0090,murG,0,96131,97198,1,78,0.0187265917602996,1068,20,N-acetylglucosaminyl transferase
+BW25113_0091,murC,0,97252,98727,1,104,0.0176151761517615,1476,26,UDP-N-acetylmuramate:L-alanine ligase
+BW25113_0093,ftsQ,0,99642,100472,1,431,0.0505415162454874,831,42,divisome assembly protein, membrane anchored protein involved in growth of wall at septum
+BW25113_0094,ftsA,0,100469,101731,1,87,0.0158353127474268,1263,20,ATP-binding cell division protein involved in recruitment of FtsK to Z ring
+BW25113_0095,ftsZ,0,101792,102943,1,83,0.0173611111111111,1152,20,GTP-binding tubulin-like cell division protein
+BW25113_0096,lpxC,0,103044,103961,1,62,0.0196078431372549,918,18,UDP-3-O-acyl N-acetylglucosamine deacetylase
+BW25113_0098,secA,0,104766,107471,1,549,0.0306725794530673,2706,83,preprotein translocase subunit, ATPase
+BW25113_0103,coaE,0,109086,109706,-1,117,0.0305958132045089,621,19,dephospho-CoA kinase
+BW25113_0114,aceE,0,119504,122167,1,842,0.0773273273273273,2664,206,pyruvate dehydrogenase, decarboxylase component E1, thiamine triphosphate-binding
+BW25113_0115,aceF,0,122182,124074,1,437,0.0596936080295827,1893,113,pyruvate dehydrogenase, dihydrolipoyltransacetylase component E2
+BW25113_0116,lpd,0,124399,125823,1,81,0.0175438596491228,1425,25,lipoamide dehydrogenase, E3 component is part of three enzyme complexes
+BW25113_0126,can,0,138495,139157,-1,42,0.0165912518853695,663,11,carbonic anhydrase
+BW25113_0154,hemL,0,170089,171369,-1,150,0.0156128024980484,1281,20,glutamate-1-semialdehyde aminotransferase (aminomutase)
+BW25113_0156,erpA,0,173097,173441,1,91,0.0289855072463768,345,10,iron-sulfur cluster insertion protein
+BW25113_0166,dapD,0,181610,182434,-1,136,0.0218181818181818,825,18,2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase
+BW25113_0168,map,0,185199,185993,-1,212,0.0339622641509434,795,27,methionine aminopeptidase
+BW25113_0169,rpsB,0,186361,187086,1,40,0.012396694214876,726,9,30S ribosomal subunit protein S2
+BW25113_0170,tsf,0,187344,188195,1,51,0.00821596244131455,852,7,translation elongation factor EF-Ts
+BW25113_0171,pyrH,0,188342,189067,1,35,0.0179063360881543,726,13,uridylate kinase
+BW25113_0172,frr,0,189359,189916,1,69,0.0376344086021505,558,21,ribosome recycling factor
+BW25113_0173,dxr,0,190008,191204,1,154,0.025062656641604,1197,30,1-deoxy-D-xylulose 5-phosphate reductoisomerase
+BW25113_0174,ispU,0,191390,192151,1,58,0.0118110236220472,762,9,undecaprenyl pyrophosphate synthase
+BW25113_0175,cdsA,0,192164,193021,1,108,0.0198135198135198,858,17,CDP-diglyceride synthase
+BW25113_0177,bamA,0,194415,196847,1,101,0.0127414714344431,2433,31,BamABCDE complex OM biogenesis outer membrane pore-forming assembly factor
+BW25113_0179,lpxD,0,197458,198483,1,89,0.0194931773879142,1026,20,UDP-3-O-(3-hydroxymyristoyl)-glucosamine N-acyltransferase
+BW25113_0180,fabZ,0,198588,199043,1,24,0.0153508771929825,456,7,(3R)-hydroxymyristol acyl carrier protein dehydratase
+BW25113_0181,lpxA,0,199047,199835,1,22,0.0101394169835234,789,8,UDP-N-acetylglucosamine acetyltransferase
+BW25113_0182,lpxB,0,199835,200983,1,146,0.0234986945169713,1149,27,tetraacyldisaccharide-1-P synthase
+BW25113_0184,dnaE,0,201613,205095,1,231,0.0097616996841803,3483,34,DNA polymerase III alpha subunit
+BW25113_0185,accA,0,205108,206067,1,46,0.0197916666666667,960,19,acetyl-CoA carboxylase, carboxytransferase, alpha subunit
+BW25113_0188,tilS,0,208818,210116,1,224,0.0269438029253272,1299,35,tRNA(Ile)-lysidine synthetase
+BW25113_0194,proS,0,213544,215262,-1,144,0.012216404886562,1719,21,prolyl-tRNA synthetase
+BW25113_4586,ykfM,0,234744,235223,-1,68,0.04375,480,21,lethality reduction protein, putative inner membrane protein
+BW25113_4629,ptwF,0,292917,292965,1,0,0,49,0,pseudogene
+BW25113_0369,hemB,0,384209,385183,-1,267,0.0225641025641026,975,22,5-aminolevulinate dehydratase (porphobilinogen synthase)
+BW25113_0408,secD,0,423103,424950,1,538,0.0714285714285714,1848,132,SecYEG protein translocase auxillary subunit
+BW25113_0414,ribD,0,428911,430014,1,122,0.0172101449275362,1104,19,fused diaminohydroxyphosphoribosylaminopyrimidine deaminase and 5-amino-6-(5-phosphoribosylamino) uracil reductase
+BW25113_0415,ribE,0,430103,430573,1,13,0.0148619957537155,471,7,riboflavin synthase beta chain
+BW25113_0416,nusB,0,430593,431012,1,127,0.0571428571428571,420,24,transcription antitermination protein
+BW25113_0417,thiL,0,431090,432067,1,56,0.016359918200409,978,16,thiamine monophosphate kinase
+BW25113_0420,dxs,0,433771,435633,-1,47,0.0123456790123457,1863,23,1-deoxyxylulose-5-phosphate synthase, thiamine triphosphate-binding, FAD-requiring
+BW25113_0421,ispA,0,435658,436557,-1,103,0.0144444444444444,900,13,geranyltranstransferase
+BW25113_0455,ffs,0,471904,472017,1,35,0.0701754385964912,114,8,
+BW25113_0470,dnaX,0,487548,489479,1,103,0.0150103519668737,1932,29,DNA polymerase III/DNA elongation factor III, tau and gamma subunits
+BW25113_0474,adk,0,492631,493275,1,25,0.00775193798449612,645,5,adenylate kinase
+BW25113_0475,hemH,0,493511,494473,1,48,0.0155763239875389,963,15,ferrochelatase
+BW25113_0524,lpxH,0,548674,549396,-1,56,0.020746887966805,723,15,UDP-2,3-diacylglucosamine pyrophosphohydrolase
+BW25113_0526,cysS,0,550067,551452,1,46,0.0122655122655123,1386,17,cysteinyl-tRNA synthetase
+BW25113_0529,folD,0,552331,553197,-1,204,0.0299884659746251,867,26,bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+BW25113_0564,appY,0,579137,579886,1,302,0.08,750,60,global transcriptional activator; DLP12 prophage
+BW25113_0628,lipA,0,654707,655672,-1,103,0.0217391304347826,966,21,lipoate synthase
+BW25113_0634,mrdB,0,660657,661769,-1,35,0.0134770889487871,1113,15,cell wall shape-determining protein
+BW25113_0635,mrdA,0,661772,663673,-1,294,0.0152471083070452,1902,29,transpeptidase involved in peptidoglycan synthesis (penicillin-binding protein 2)
+BW25113_0639,nadD,0,665387,666028,-1,204,0.0327102803738318,642,21,nicotinic acid mononucleotide adenylyltransferase, NAD(P)-dependent
+BW25113_0640,holA,0,666030,667061,-1,358,0.0242248062015504,1032,25,DNA polymerase III, delta subunit
+BW25113_0641,lptE,0,667061,667642,-1,82,0.0206185567010309,582,12,LPS assembly OM complex LptDE, lipoprotein component
+BW25113_0642,leuS,0,667657,670239,-1,131,0.0147115756871854,2583,38,leucyl-tRNA synthetase
+BW25113_0657,lnt,0,684799,686337,-1,245,0.0279402209226771,1539,43,apolipoprotein N-acyltransferase
+BW25113_0659,ybeY,0,687330,687797,-1,125,0.047008547008547,468,22,ssRNA-specific endoribonuclease; co-endoribonuclease working with RNase R in 16S rRNA 3' end maturation and quality control; rRNA transcription antitermination factor
+BW25113_0662,ubiF,0,690557,691732,1,323,0.0629251700680272,1176,74,2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol oxygenase
+BW25113_0668,glnW,0,692212,692286,-1,25,0.0666666666666667,75,5,
+BW25113_0670,glnU,0,692321,692395,-1,55,0.08,75,6,
+BW25113_0672,leuW,0,692419,692503,-1,1,0.0117647058823529,85,1,
+BW25113_0673,metT,0,692513,692589,-1,80,0.0779220779220779,77,6,
+BW25113_0680,glnS,0,701549,703213,1,220,0.0144144144144144,1665,24,glutamyl-tRNA synthetase
+BW25113_0684,fldA,0,706391,706921,-1,23,0.0225988700564972,531,12,flavodoxin 1
+BW25113_0687,seqA,0,708443,708988,1,187,0.0787545787545788,546,43,negative modulator of initiation of replication
+BW25113_0726,sucA,0,754162,756963,1,811,0.0642398286937901,2802,180,2-oxoglutarate decarboxylase, thiamine triphosphate-binding
+BW25113_0727,sucB,0,756978,758195,1,258,0.0517241379310345,1218,63,dihydrolipoyltranssuccinase
+BW25113_0733,cydA,0,766914,768482,1,332,0.0286806883365201,1569,45,cytochrome d terminal oxidase, subunit I
+BW25113_0734,cydB,0,768498,769637,1,160,0.0385964912280702,1140,44,cytochrome d terminal oxidase, subunit II
+BW25113_4515,cydX,0,769652,769765,1,56,0.0701754385964912,114,8,cytochrome d (bd-I) ubiquinol oxidase subunit X
+BW25113_0743,lysT,0,776010,776085,1,26,0.0789473684210526,76,6,
+BW25113_0884,infA,0,921681,921899,-1,7,0.0136986301369863,219,3,translation initiation factor IF-1
+BW25113_0886,cydC,0,922930,924651,-1,660,0.0563298490127758,1722,97,fused glutathione, cysteine exporter subunits of ABC superfamily: membrane component/ATP-binding component
+BW25113_0887,cydD,0,924652,926418,-1,541,0.057159026598755,1767,101,fused glutathione, cysteine exporter subunits of ABC superfamily: membrane component/ATP-binding component
+BW25113_0891,lolA,0,932828,933439,1,69,0.0065359477124183,612,4,lipoprotein chaperone
+BW25113_0893,serS,0,934884,936176,1,56,0.0177880897138438,1293,23,seryl-tRNA synthetase, also charges selenocysteinyl-tRNA with serine
+BW25113_0910,cmk,0,956657,957340,1,210,0.0716374269005848,684,49,cytidylate kinase
+BW25113_0911,rpsA,0,957451,959124,1,197,0.025089605734767,1674,42,30S ribosomal subunit protein S1
+BW25113_0914,msbA,0,962077,963825,1,91,0.0114351057747284,1749,20,fused lipid transporter subunits of ABC superfamily: membrane component/ATP-binding component
+BW25113_0915,lpxK,0,963822,964808,1,112,0.0233029381965552,987,23,lipid A 4'kinase
+BW25113_0917,ycaR,0,966129,966311,1,138,0.0601092896174863,183,11,peroxide and acid resistance protein, UPF0434 family
+BW25113_0918,kdsB,0,966308,967054,1,35,0.0133868808567604,747,10,3-deoxy-manno-octulosonate cytidylyltransferase
+BW25113_0922,mukF,0,969775,971097,1,72,0.0158730158730159,1323,21,chromosome condensin MukBEF, kleisin-like subunit, binds calcium
+BW25113_0923,mukE,0,971078,971782,1,153,0.0340425531914894,705,24,chromosome condensin MukBEF, MukE localization factor
+BW25113_0924,mukB,0,971782,976242,1,163,0.013001569154898,4461,58,chromosome condensin MukBEF, ATPase and DNA-binding subunit
+BW25113_0930,asnS,0,983041,984441,-1,25,0.00785153461812991,1401,11,asparaginyl tRNA synthetase
+BW25113_0954,fabA,0,1011408,1011926,-1,210,0.0308285163776493,519,16,beta-hydroxydecanoyl thioester dehydrase
+BW25113_0969,tusE,0,1025795,1026124,-1,58,0.0424242424242424,330,14,mnm(5)-s(2)U34-tRNA 2-thiolation sulfurtransferase
+BW25113_0971,serT,0,1027081,1027168,-1,3,0.0227272727272727,88,2,
+BW25113_4517,gnsA,0,1047523,1047696,1,92,0.0804597701149425,174,14,putative phosphatidylethanolamine synthesis regulator
+BW25113_1054,lpxL,0,1111118,1112038,-1,122,0.0162866449511401,921,15,lauryl-acyl carrier protein (ACP)-dependent acyltransferase
+BW25113_1069,murJ,0,1123295,1124830,1,135,0.0130208333333333,1536,20,putative peptidoglycan lipid II flippase
+BW25113_1084,rne,0,1136638,1139823,-1,1730,0.0803515379786566,3186,256,fused ribonucleaseE: endoribonuclease/RNA-binding protein/RNA degradosome binding protein
+BW25113_1089,rpmF,0,1142823,1142996,1,40,0.0344827586206897,174,6,50S ribosomal subunit protein L32
+BW25113_1091,fabH,0,1144215,1145168,1,83,0.019916142557652,954,19,3-oxoacyl-[acyl-carrier-protein] synthase III
+BW25113_1092,fabD,0,1145184,1146113,1,40,0.0150537634408602,930,14,malonyl-CoA-[acyl-carrier-protein] transacylase
+BW25113_1093,fabG,0,1146126,1146860,1,29,0.00680272108843537,735,5,3-oxoacyl-[acyl-carrier-protein] reductase
+BW25113_1094,acpP,0,1147071,1147307,1,5,0.0168776371308017,237,4,acyl carrier protein (ACP)
+BW25113_1098,tmk,0,1150580,1151221,1,96,0.0186915887850467,642,12,thymidylate kinase
+BW25113_1099,holB,0,1151218,1152222,1,300,0.0258706467661692,1005,26,DNA polymerase III, delta prime subunit
+BW25113_1116,lolC,0,1170883,1172082,1,43,0.01,1200,12,lipoprotein-releasing system transmembrane protein
+BW25113_1117,lolD,0,1172075,1172776,1,38,0.00854700854700855,702,6,outer membrane-specific lipoprotein transporter subunit
+BW25113_1118,lolE,0,1172776,1174020,1,98,0.0144578313253012,1245,18,lipoprotein-releasing system transmembrane protein
+BW25113_1131,purB,0,1186072,1187442,-1,64,0.0182348650619985,1371,25,adenylosuccinate lyase
+BW25113_1133,mnmA,0,1188123,1189229,-1,97,0.037940379403794,1107,42,tRNA(Gln,Lys,Glu) U34 2-thiouridylase, first step in mnm(5)-s(2)U34-tRNA synthesis
+BW25113_1138,ymfE,0,1192989,1193693,-1,97,0.024113475177305,705,17,e14 prophage; putative inner membrane protein
+BW25113_1145,cohE,0,1197715,1198389,-1,21,0.0133333333333333,675,9,e14 prophage; repressor protein phage e14
+BW25113_1160,iraM,0,1207136,1207459,-1,70,0.0617283950617284,324,20,RpoS stabilzer during Mg starvation, anti-RssB factor
+BW25113_1166,ariR,0,1211825,1212091,1,47,0.048689138576779,267,13,RcsB connector protein for regulation of biofilm and acid-resistance
+BW25113_1204,pth,0,1253385,1253969,-1,95,0.0290598290598291,585,17,peptidyl-tRNA hydrolase
+BW25113_1207,prs,0,1256384,1257331,-1,27,0.0137130801687764,948,13,phosphoribosylpyrophosphate synthase
+BW25113_1208,ispE,0,1257482,1258333,-1,16,0.0117370892018779,852,10,4-diphosphocytidyl-2-C-methylerythritol kinase
+BW25113_1209,lolB,0,1258333,1258956,-1,55,0.0208333333333333,624,13,lipoprotein localization factor
+BW25113_1210,hemA,0,1259170,1260426,1,43,0.015115354017502,1257,19,glutamyl tRNA reductase
+BW25113_1211,prfA,0,1260468,1261550,1,77,0.0193905817174515,1083,21,peptide chain release factor RF-1
+BW25113_1212,prmC,0,1261550,1262383,1,22,0.00959232613908873,834,8,N5-glutamine methyltransferase, modifies release factors RF-1 and RF-2
+BW25113_1215,kdsA,0,1263621,1264475,1,47,0.0152046783625731,855,13,3-deoxy-D-manno-octulosonate 8-phosphate synthase
+BW25113_4424,rdlC,0,1265849,1265916,1,16,0.0441176470588235,68,3,
+BW25113_4425,rttR,0,1282522,1282692,-1,126,0.0760233918128655,171,13,
+BW25113_1229,tpr,0,1282543,1282632,-1,75,0.0777777777777778,90,7,protamine-like protein
+BW25113_1230,tyrV,0,1282700,1282784,-1,98,0.0705882352941176,85,6,
+BW25113_1252,tonB,0,1305346,1306065,1,209,0.0611111111111111,720,44,membrane spanning protein in TonB-ExbB-ExbD transport complex
+BW25113_1265,trpL,0,1317295,1317339,-1,8,0.0444444444444444,45,2,trp operon leader peptide
+BW25113_1274,topA,0,1325305,1327902,1,324,0.0227097767513472,2598,59,DNA topoisomerase I, omega subunit
+BW25113_1277,ribA,0,1332827,1333417,-1,25,0.00676818950930626,591,4,GTP cyclohydrolase II
+BW25113_1279,yciS,0,1334500,1334808,1,75,0.0517799352750809,309,16,DUF1049 family inner membrane protein, function unknown
+BW25113_1280,yciM,0,1334815,1335984,1,272,0.0700854700854701,1170,82,envelope integrity maintenance protein; EnvC-interacting protein
+BW25113_4672,ymiB,0,1341053,1341157,1,21,0.0285714285714286,105,3,uncharacterized protein
+BW25113_1288,fabI,0,1344508,1345296,-1,3,0.00380228136882129,789,3,enoyl-[acyl-carrier-protein] reductase, NADH-dependent
+BW25113_4526,ydaE,0,1412095,1412265,-1,32,0.0526315789473684,171,9,Rac prophage; conserved protein
+BW25113_1356,racR,0,1414022,1414498,-1,109,0.0230607966457023,477,11,Rac prophage; putative DNA-binding transcriptional regulator
+BW25113_1357,ydaS,0,1414622,1414918,1,66,0.0471380471380471,297,14,Rac prophage; putative DNA-binding transcriptional regulator
+BW25113_4638,ttcC,0,1429215,1429265,-1,6,0.0392156862745098,51,2,pseudogene
+BW25113_4674,ynbG,0,1459422,1459487,-1,0,0,66,0,uncharacterized protein
+BW25113_4429,sokB,0,1486376,1486431,1,14,0.0714285714285714,56,4,
+BW25113_1455,yncH,0,1521197,1521409,1,23,0.0234741784037559,213,5,IPR020099 family protein
+BW25113_1457,ydcD,0,1524179,1524661,1,92,0.041407867494824,483,20,uncharacterized protein
+BW25113_1471,yddK,0,1538641,1539971,-1,561,0.0661157024793388,1331,88,pseudogene
+BW25113_1472,yddL,0,1540007,1540285,-1,65,0.0573476702508961,279,16,pseudogene
+BW25113_1500,safA,0,1578019,1578216,-1,41,0.0505050505050505,198,10,two-component system connector membrane protein, EvgSA to PhoQP
+BW25113_1508,hipB,0,1586433,1586699,-1,50,0.0337078651685393,267,9,antitoxin of HipAB toxin-antitoxin system
+BW25113_1549,ydfO,0,1631304,1631714,1,87,0.0535279805352798,411,22,Qin prophage; uncharacterized protein
+BW25113_1550,gnsB,0,1631866,1632039,-1,49,0.0459770114942529,174,8,Qin prophage; multicopy suppressor of secG(Cs) and fabA6(Ts)
+BW25113_1564,relB,0,1639890,1640129,-1,42,0.0416666666666667,240,10,Qin prophage; bifunctional antitoxin of the RelE-RelB toxin-antitoxin system/ transcriptional repressor
+BW25113_1570,dicA,0,1642191,1642598,1,2,0.00490196078431373,408,2,Qin prophage; putative regulator for DicB
+BW25113_1637,tyrS,0,1710205,1711479,-1,29,0.00862745098039216,1275,11,tyrosyl-tRNA synthetase
+BW25113_1638,pdxH,0,1711608,1712264,-1,106,0.0502283105022831,657,33,pyridoxine 5'-phosphate oxidase
+BW25113_1648,ydhL,0,1719938,1720177,-1,73,0.0583333333333333,240,14,DUF1289 family protein
+BW25113_1652,rnt,0,1722604,1723251,1,91,0.0354938271604938,648,23,ribonuclease T (RNase T)
+BW25113_1662,ribC,0,1736858,1737499,-1,161,0.029595015576324,642,19,riboflavin synthase, alpha subunit
+BW25113_1665,valV,0,1740692,1740768,1,66,0.0779220779220779,77,6,
+BW25113_1712,ihfA,0,1789510,1789809,-1,90,0.0433333333333333,300,13,integration host factor (IHF), DNA-binding protein, alpha subunit
+BW25113_1713,pheT,0,1789814,1792201,-1,56,0.0104690117252931,2388,25,phenylalanine tRNA synthetase, beta subunit
+BW25113_1714,pheS,0,1792216,1793199,-1,21,0.0111788617886179,984,11,phenylalanine tRNA synthetase, alpha subunit
+BW25113_1715,pheM,0,1793483,1793527,-1,1,0.0222222222222222,45,1,phenylalanyl-tRNA synthetase operon leader peptide
+BW25113_1716,rplT,0,1793650,1794006,-1,5,0.00560224089635854,357,2,50S ribosomal subunit protein L20
+BW25113_1717,rpmI,0,1794059,1794256,-1,30,0.0404040404040404,198,8,50S ribosomal subunit protein L35
+BW25113_1718,infC,0,1794353,1794895,-1,23,0.00736648250460405,543,4,translation initiation factor IF-3
+BW25113_1719,thrS,0,1794899,1796827,-1,137,0.0114048729911871,1929,22,threonyl-tRNA synthetase
+BW25113_1740,nadE,0,1816715,1817542,1,30,0.0120772946859903,828,10,NAD synthetase, NH3/glutamine-dependent
+BW25113_1779,gapA,0,1857028,1858023,1,32,0.0100401606425703,996,10,glyceraldehyde-3-phosphate dehydrogenase A
+BW25113_1807,tsaB,0,1884829,1885524,-1,42,0.0158045977011494,696,11,tRNA(ANN) t(6)A37 threonylcarbamoyladenosine modification protein; binding partner and protease for TsaD
+BW25113_1852,zwf,0,1929096,1930571,-1,393,0.0691056910569106,1476,102,glucose-6-phosphate 1-dehydrogenase
+BW25113_4677,yobI,0,1940372,1940437,-1,25,0.0757575757575758,66,5,uncharacterized protein
+BW25113_1866,aspS,0,1943007,1944779,-1,169,0.0163564579808235,1773,29,aspartyl-tRNA synthetase
+BW25113_1876,argS,0,1954319,1956052,1,48,0.0103806228373702,1734,18,arginyl-tRNA synthetase
+BW25113_1909,leuZ,0,1985296,1985382,-1,2,0.0229885057471264,87,2,
+BW25113_1910,cysT,0,1985395,1985468,-1,0,0,74,0,
+BW25113_1912,pgsA,0,1985750,1986298,-1,7,0.00728597449908925,549,4,phosphatidylglycerophosphate synthetase
+BW25113_4495,yedN,0,2004704,2005832,-1,214,0.054030115146147,1129,61,pseudogene
+BW25113_2065,dcd,0,2135115,2135696,-1,46,0.0481099656357388,582,28,2'-deoxycytidine 5'-triphosphate deaminase
+BW25113_2114,metG,0,2187779,2189812,1,444,0.0319567354965585,2034,65,methionyl-tRNA synthetase
+BW25113_2153,folE,0,2236463,2237131,-1,34,0.0104633781763827,669,7,GTP cyclohydrolase I
+BW25113_2185,rplY,0,2275996,2276280,1,29,0.0245614035087719,285,7,50S ribosomal subunit protein L25
+BW25113_2231,gyrA,0,2330272,2332899,-1,180,0.0136986301369863,2628,36,DNA gyrase (type II topoisomerase), subunit A
+BW25113_2232,ubiG,0,2333046,2333768,1,116,0.0262793914246196,723,19,bifunctional 3-demethylubiquinone-9 3-methyltransferase/ 2-octaprenyl-6-hydroxy phenol methylase
+BW25113_2234,nrdA,0,2338344,2340629,1,77,0.0100612423447069,2286,23,ribonucleoside-diphosphate reductase 1, alpha subunit
+BW25113_2235,nrdB,0,2340863,2341993,1,24,0.00884173297966401,1131,10,ribonucleoside-diphosphate reductase 1, beta subunit, ferritin-like protein
+BW25113_2311,ubiX,0,2421536,2422105,-1,75,0.0228070175438597,570,13,3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+BW25113_2315,folC,0,2425153,2426421,-1,141,0.0212765957446809,1269,27,bifunctional folylpolyglutamate synthase/ dihydrofolate synthase
+BW25113_2316,accD,0,2426491,2427405,-1,87,0.019672131147541,915,18,acetyl-CoA carboxylase, beta (carboxyltransferase) subunit
+BW25113_2323,fabB,0,2433864,2435084,-1,44,0.0106470106470106,1221,13,3-oxoacyl-[acyl-carrier-protein] synthase I
+BW25113_2348,argW,0,2459788,2459862,1,47,0.08,75,6,
+BW25113_2400,gltX,0,2512736,2514151,-1,146,0.0141242937853107,1416,20,glutamyl-tRNA synthetase
+BW25113_2411,ligA,0,2521520,2523535,-1,131,0.0133928571428571,2016,27,DNA ligase, NAD(+)-dependent
+BW25113_2412,zipA,0,2523606,2524592,-1,258,0.0243161094224924,987,24,FtsZ stabilizer
+BW25113_2416,ptsI,0,2527425,2529152,1,270,0.0549768518518519,1728,95,PEP-protein phosphotransferase of PTS system (enzyme I)
+BW25113_2417,crr,0,2529193,2529702,1,197,0.0666666666666667,510,34,glucose-specific enzyme IIA component of PTS
+BW25113_2450,yffS,0,2557882,2558691,1,462,0.0506172839506173,810,41,CPZ-55 prophage; uncharacterized protein
+BW25113_2472,dapE,0,2584966,2586093,1,244,0.0230496453900709,1128,26,N-succinyl-diaminopimelate deacylase
+BW25113_2478,dapA,0,2592241,2593119,-1,117,0.0216154721274175,879,19,dihydrodipicolinate synthase
+BW25113_2496,hda,0,2611434,2612135,-1,66,0.0242165242165242,702,17,ATPase regulatory factor involved in DnaA inactivation
+BW25113_2507,guaA,0,2624317,2625894,-1,160,0.0437262357414449,1578,69,GMP synthetase (glutamine aminotransferase)
+BW25113_2511,der,0,2629243,2630715,-1,14,0.00814663951120163,1473,12,GTPase; multicopy suppressor of ftsJ
+BW25113_2514,hisS,0,2632660,2633934,-1,321,0.0141176470588235,1275,18,histidyl tRNA synthetase
+BW25113_2515,ispG,0,2634045,2635163,-1,114,0.0142984807864164,1119,16,1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase
+BW25113_2525,fdx,0,2650107,2650442,-1,117,0.0744047619047619,336,25,[2Fe-2S] ferredoxin
+BW25113_2526,hscA,0,2650444,2652294,-1,521,0.0486223662884927,1851,90,DnaK-like molecular chaperone specific for IscU
+BW25113_2527,hscB,0,2652311,2652826,-1,301,0.0794573643410853,516,41,HscA co-chaperone, J domain-containing protein Hsc56; IscU-specific chaperone HscAB
+BW25113_2529,iscU,0,2653262,2653648,-1,30,0.0232558139534884,387,9,iron-sulfur cluster assembly scaffold protein
+BW25113_2530,iscS,0,2653676,2654890,-1,167,0.0263374485596708,1215,32,cysteine desulfurase (tRNA sulfurtransferase), PLP-dependent
+BW25113_2533,suhB,0,2656801,2657604,1,144,0.027363184079602,804,22,inositol monophosphatase
+BW25113_2551,glyA,0,2677613,2678866,-1,71,0.0151515151515152,1254,19,serine hydroxymethyltransferase
+BW25113_2559,tadA,0,2690713,2691216,-1,38,0.0396825396825397,504,20,tRNA-specific adenosine deaminase
+BW25113_2563,acpS,0,2693977,2694357,-1,52,0.010498687664042,381,4,holo-[acyl-carrier-protein] synthase 1
+BW25113_2566,era,0,2695840,2696745,-1,67,0.0176600441501104,906,16,membrane-associated, 16S rRNA-binding GTPase
+BW25113_2568,lepB,0,2697694,2698668,-1,185,0.0317948717948718,975,31,leader peptidase (signal peptidase I)
+BW25113_2573,rpoE,0,2702796,2703371,-1,88,0.0399305555555556,576,23,RNA polymerase sigma E factor
+BW25113_2585,pssA,0,2716086,2717441,1,76,0.0147492625368732,1356,20,phosphatidylserine synthase (CDP-diacylglycerol-serine O-phosphatidyltransferase)
+BW25113_2594,rluD,0,2728390,2729370,-1,425,0.0387359836901121,981,38,23S rRNA pseudouridine(1911,1915,1917) synthase
+BW25113_2595,bamD,0,2729505,2730242,1,116,0.0284552845528455,738,21,BamABCDE complex OM biogenesis lipoprotein
+BW25113_2606,rplS,0,2737542,2737889,-1,81,0.0459770114942529,348,16,50S ribosomal subunit protein L19
+BW25113_2607,trmD,0,2737931,2738698,-1,91,0.015625,768,12,tRNA m(1)G37 methyltransferase, SAM-dependent
+BW25113_2608,rimM,0,2738729,2739277,-1,48,0.0163934426229508,549,9,16S rRNA processing protein
+BW25113_2609,rpsP,0,2739296,2739544,-1,27,0.0240963855421687,249,6,30S ribosomal subunit protein S16
+BW25113_2610,ffh,0,2739793,2741154,-1,202,0.0249632892804699,1362,34,Signal Recognition Particle (SRP) component with 4.5S RNA (ffs)
+BW25113_2614,grpE,0,2743474,2744067,-1,243,0.037037037037037,594,22,heat shock protein
+BW25113_2615,nadK,0,2744190,2745068,1,17,0.0113765642775882,879,10,NAD kinase
+BW25113_2619,ratA,0,2747647,2748123,-1,188,0.0775681341719078,477,37,toxic UPF0083 family protein inhibitor of 70S ribosome formation
+BW25113_4645,psaA,0,2771331,2771344,1,10,0.0714285714285714,14,1,pseudogene
+BW25113_4442,micA,0,2808161,2808238,1,20,0.0256410256410256,78,2,
+BW25113_2695,serV,0,2811912,2812004,-1,13,0.021505376344086,93,2,
+BW25113_2696,csrA,0,2812320,2812505,-1,20,0.0537634408602151,186,10,pleiotropic regulatory protein for carbon source metabolism
+BW25113_2697,alaS,0,2812740,2815370,-1,62,0.00798175598631699,2631,21,alanyl-tRNA synthetase
+BW25113_2746,ispF,0,2864660,2865139,-1,19,0.0125,480,6,2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+BW25113_2747,ispD,0,2865139,2865849,-1,242,0.0253164556962025,711,18,4-diphosphocytidyl-2C-methyl-D-erythritol synthase
+BW25113_2748,ftsB,0,2865868,2866179,-1,132,0.0416666666666667,312,13,cell division protein
+BW25113_2779,eno,0,2900002,2901300,-1,419,0.0215550423402617,1299,28,enolase
+BW25113_2780,pyrG,0,2901388,2903025,-1,85,0.0158730158730159,1638,26,CTP synthetase
+BW25113_2827,thyA,0,2957720,2958514,-1,38,0.0163522012578616,795,13,thymidylate synthetase
+BW25113_2828,lgt,0,2958521,2959396,-1,215,0.0308219178082192,876,27,phosphatidylglycerol-prolipoprotein diacylglyceryl transferase
+BW25113_2850,ygeF,0,2983913,2984402,1,75,0.0448979591836735,490,22,pseudogene
+BW25113_2851,ygeG,0,2984627,2985118,1,136,0.0792682926829268,492,39,SycD-like chaperone family TPR-repeat-containing protein
+BW25113_2858,ygeN,0,2988673,2989379,-1,88,0.0438472418670438,707,31,pseudogene
+BW25113_2890,lysS,0,3027016,3028533,-1,85,0.0237154150197628,1518,36,lysine tRNA synthetase, constitutive
+BW25113_2891,prfB,0,3028543,3029641,-1,36,0.010919017288444,1099,12,peptide chain release factor RF-2
+BW25113_2898,ygfZ,0,3034672,3035652,1,325,0.0581039755351682,981,57,iron-sulfur cluster repair protein, plumbagin resistance
+BW25113_2907,ubiH,0,3045699,3046877,-1,160,0.0407124681933842,1179,48,2-octaprenyl-6-methoxyphenol hydroxylase, FAD/NAD(P)-binding
+BW25113_2925,fbaA,0,3063524,3064603,-1,58,0.0185185185185185,1080,20,fructose-bisphosphate aldolase, class II
+BW25113_2926,pgk,0,3064818,3065981,-1,199,0.0266323024054983,1164,31,phosphoglycerate kinase
+BW25113_2935,tktA,0,3073003,3074994,-1,720,0.0667670682730924,1992,133,transketolase 1, thiamine triphosphate-binding
+BW25113_2942,metK,0,3080065,3081219,1,108,0.0207792207792208,1155,24,S-adenosylmethionine synthetase
+BW25113_2949,yqgF,0,3086859,3087275,1,193,0.0359712230215827,417,15,putative Holliday junction resolvase
+BW25113_3018,plsC,0,3156103,3156840,-1,186,0.018970189701897,738,14,1-acyl-sn-glycerol-3-phosphate acyltransferase
+BW25113_3019,parC,0,3157074,3159332,-1,314,0.0177069499778663,2259,40,DNA topoisomerase IV, subunit A
+BW25113_3030,parE,0,3166863,3168755,-1,171,0.0179609086106709,1893,34,DNA topoisomerase IV, subunit B
+BW25113_3056,cca,0,3195250,3196488,1,253,0.0371267150928168,1239,46,fused tRNA nucleotidyl transferase/2'3'-cyclic phosphodiesterase/2'nucleotidase and phosphatase
+BW25113_3058,folB,0,3197580,3197948,-1,57,0.046070460704607,369,17,bifunctional dihydroneopterin aldolase/dihydroneopterin triphosphate 2'-epimerase
+BW25113_3064,tsaD,0,3202889,3203902,-1,108,0.0187376725838264,1014,19,tRNA(ANN) t(6)A37 threonylcarbamoyladenosine modification protein; glycation binding protein
+BW25113_3065,rpsU,0,3204140,3204355,1,27,0.0231481481481481,216,5,30S ribosomal subunit protein S21
+BW25113_3066,dnaG,0,3204466,3206211,1,92,0.0131729667812142,1746,23,DNA primase
+BW25113_3067,rpoD,0,3206406,3208247,1,122,0.0141150922909881,1842,26,RNA polymerase, sigma 70 (sigma D) factor
+BW25113_3082,higA,0,3227087,3227503,-1,167,0.052757793764988,417,22,antitoxinof the HigB-HigA toxin-antitoxin system
+BW25113_3123,rnpB,0,3263575,3263951,-1,84,0.0424403183023873,377,16,
+BW25113_3164,pnp,0,3302392,3304527,-1,1160,0.075374531835206,2136,161,polynucleotide phosphorylase/polyadenylase
+BW25113_3165,rpsO,0,3304774,3305043,-1,47,0.0444444444444444,270,12,30S ribosomal subunit protein S15
+BW25113_3167,rbfA,0,3306136,3306537,-1,155,0.0621890547263682,402,25,30s ribosome binding factor
+BW25113_3168,infB,0,3306701,3309373,-1,372,0.0284324728769173,2673,76,translation initiation factor IF-2
+BW25113_3169,nusA,0,3309398,3310885,-1,435,0.0282258064516129,1488,42,transcription termination/antitermination L factor
+BW25113_3176,glmM,0,3316092,3317429,-1,328,0.0254110612855007,1338,34,phosphoglucosamine mutase
+BW25113_3177,folP,0,3317422,3318270,-1,287,0.0518256772673734,849,44,7,8-dihydropteroate synthase
+BW25113_3178,ftsH,0,3318360,3320294,-1,906,0.0661498708010336,1935,128,protease, ATP-dependent zinc-metallo
+BW25113_3179,rlmE,0,3320394,3321023,-1,177,0.0619047619047619,630,39,23S rRNA U2552 2'-O-ribose methyltransferase, SAM-dependent
+BW25113_3183,obgE,0,3323941,3325113,-1,336,0.0468883205456095,1173,55,GTPase involved in cell partioning and DNA repair
+BW25113_3185,rpmA,0,3326221,3326478,-1,17,0.0116279069767442,258,3,50S ribosomal subunit protein L27
+BW25113_3186,rplU,0,3326499,3326810,-1,34,0.0128205128205128,312,4,50S ribosomal subunit protein L21
+BW25113_3187,ispB,0,3327069,3328040,1,270,0.0318930041152263,972,31,octaprenyl diphosphate synthase
+BW25113_3189,murA,0,3328594,3329853,-1,61,0.0182539682539683,1260,23,UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+BW25113_3200,lptA,0,3336739,3337296,1,380,0.0519713261648745,558,29,periplasmic LPS-binding protein
+BW25113_3201,lptB,0,3337303,3338028,1,75,0.0220385674931129,726,16,lipopolysaccharide export ABC transporter ATP-binding protein of the LptBFGC export complex
+BW25113_3230,rpsI,0,3371174,3371566,-1,28,0.0178117048346056,393,7,30S ribosomal subunit protein S9
+BW25113_3231,rplM,0,3371582,3372010,-1,13,0.00699300699300699,429,3,50S ribosomal subunit protein L13
+BW25113_3249,mreD,0,3391746,3392234,-1,135,0.0429447852760736,489,21,cell wall structural complex MreBCD transmembrane component MreD
+BW25113_3250,mreC,0,3392234,3393337,-1,638,0.0625,1104,69,cell wall structural complex MreBCD transmembrane component MreC
+BW25113_3251,mreB,0,3393403,3394446,-1,100,0.0162835249042146,1044,17,cell wall structural complex MreBCD, actin-like component MreB
+BW25113_3255,accB,0,3398795,3399265,1,21,0.0169851380042463,471,8,acetyl CoA carboxylase, BCCP subunit
+BW25113_3256,accC,0,3399276,3400625,1,51,0.00814814814814815,1350,11,acetyl-CoA carboxylase, biotin carboxylase subunit
+BW25113_3282,tsaC,0,3424202,3424774,-1,177,0.0366492146596859,573,21,tRNA(ANN) t(6)A37 threonylcarbamoyladenosine modification protein, threonine-dependent ADP-forming ATPase
+BW25113_3287,def,0,3427049,3427558,1,233,0.0627450980392157,510,32,peptide deformylase
+BW25113_3288,fmt,0,3427573,3428520,1,230,0.0369198312236287,948,35,10-formyltetrahydrofolate:L-methionyl-tRNA(fMet) N-formyltransferase
+BW25113_3294,rplQ,0,3432975,3433358,-1,32,0.0130208333333333,384,5,50S ribosomal subunit protein L17
+BW25113_3295,rpoA,0,3433399,3434388,-1,134,0.0131313131313131,990,13,RNA polymerase, alpha subunit
+BW25113_3296,rpsD,0,3434414,3435034,-1,39,0.0144927536231884,621,9,30S ribosomal subunit protein S4
+BW25113_3297,rpsK,0,3435068,3435457,-1,5,0.00769230769230769,390,3,30S ribosomal subunit protein S11
+BW25113_3298,rpsM,0,3435474,3435830,-1,2,0.00560224089635854,357,2,30S ribosomal subunit protein S13
+BW25113_3299,rpmJ,0,3435977,3436093,-1,19,0.0683760683760684,117,8,50S ribosomal subunit protein L36
+BW25113_3300,secY,0,3436125,3437456,-1,59,0.012012012012012,1332,16,preprotein translocase membrane subunit
+BW25113_3301,rplO,0,3437464,3437898,-1,3,0.00459770114942529,435,2,50S ribosomal subunit protein L15
+BW25113_3302,rpmD,0,3437902,3438081,-1,0,0,180,0,50S ribosomal subunit protein L30
+BW25113_3303,rpsE,0,3438085,3438588,-1,11,0.00595238095238095,504,3,30S ribosomal subunit protein S5
+BW25113_3304,rplR,0,3438603,3438956,-1,22,0.0169491525423729,354,6,50S ribosomal subunit protein L18
+BW25113_3305,rplF,0,3438966,3439499,-1,6,0.00936329588014981,534,5,50S ribosomal subunit protein L6
+BW25113_3306,rpsH,0,3439512,3439904,-1,24,0.0152671755725191,393,6,30S ribosomal subunit protein S8
+BW25113_3307,rpsN,0,3439938,3440243,-1,4,0.00980392156862745,306,3,30S ribosomal subunit protein S14
+BW25113_3308,rplE,0,3440258,3440797,-1,26,0.012962962962963,540,7,50S ribosomal subunit protein L5
+BW25113_3309,rplX,0,3440812,3441126,-1,5,0.00634920634920635,315,2,50S ribosomal subunit protein L24
+BW25113_3310,rplN,0,3441137,3441508,-1,12,0.0134408602150538,372,5,50S ribosomal subunit protein L14
+BW25113_3311,rpsQ,0,3441673,3441927,-1,56,0.0313725490196078,255,8,30S ribosomal subunit protein S17
+BW25113_3312,rpmC,0,3441927,3442118,-1,6,0.0208333333333333,192,4,50S ribosomal subunit protein L29
+BW25113_3313,rplP,0,3442118,3442528,-1,20,0.0194647201946472,411,8,50S ribosomal subunit protein L16
+BW25113_3314,rpsC,0,3442541,3443242,-1,11,0.00997150997150997,702,7,30S ribosomal subunit protein S3
+BW25113_3315,rplV,0,3443260,3443592,-1,48,0.018018018018018,333,6,50S ribosomal subunit protein L22
+BW25113_3316,rpsS,0,3443607,3443885,-1,4,0.014336917562724,279,4,30S ribosomal subunit protein S19
+BW25113_3317,rplB,0,3443902,3444723,-1,152,0.0231143552311436,822,19,50S ribosomal subunit protein L2
+BW25113_3318,rplW,0,3444741,3445043,-1,9,0.0132013201320132,303,4,50S ribosomal subunit protein L23
+BW25113_3319,rplD,0,3445040,3445645,-1,19,0.0099009900990099,606,6,50S ribosomal subunit protein L4
+BW25113_3320,rplC,0,3445656,3446285,-1,11,0.0111111111111111,630,7,50S ribosomal subunit protein L3
+BW25113_3321,rpsJ,0,3446318,3446629,-1,5,0.016025641025641,312,5,30S ribosomal subunit protein S10
+BW25113_3340,fusA,0,3464759,3466873,-1,125,0.0122931442080378,2115,26,protein chain elongation factor EF-G, GTP-binding
+BW25113_3341,rpsG,0,3466901,3467440,-1,183,0.0388888888888889,540,21,30S ribosomal subunit protein S7
+BW25113_3342,rpsL,0,3467537,3467911,-1,35,0.0266666666666667,375,10,30S ribosomal subunit protein S12
+BW25113_3357,crp,0,3479479,3480111,1,253,0.0774091627172196,633,49,cAMP-activated global transcription factor, mediator of catabolite repression
+BW25113_3384,trpS,0,3505993,3506997,-1,32,0.0139303482587065,1005,14,tryptophanyl-tRNA synthetase
+BW25113_3386,rpe,0,3507741,3508418,-1,319,0.0530973451327434,678,36,D-ribulose-5-phosphate 3-epimerase
+BW25113_3398,yrfF,0,3519828,3521963,1,891,0.0547752808988764,2136,117,inner membrane protein
+BW25113_3433,asd,0,3567135,3568238,-1,59,0.0135869565217391,1104,15,aspartate-semialdehyde dehydrogenase, NAD(P)-binding
+BW25113_3461,rpoH,0,3593289,3594143,-1,89,0.0222222222222222,855,19,RNA polymerase, sigma 32 (sigma H) factor
+BW25113_3464,ftsY,0,3596110,3597603,-1,101,0.0160642570281124,1494,24,Signal Recognition Particle (SRP) receptor
+BW25113_3559,glyS,0,3715688,3717757,-1,151,0.0164251207729469,2070,34,glycine tRNA synthetase, beta subunit
+BW25113_3560,glyQ,0,3717767,3718678,-1,50,0.0131578947368421,912,12,glycine tRNA synthetase, alpha subunit
+BW25113_3608,gpsA,0,3776002,3777021,-1,131,0.0245098039215686,1020,25,glycerol-3-phosphate dehydrogenase (NAD+)
+BW25113_3633,waaA,0,3801900,3803177,1,164,0.0258215962441315,1278,33,3-deoxy-D-manno-octulosonic-acid transferase (KDO transferase)
+BW25113_3634,coaD,0,3803185,3803664,1,37,0.0104166666666667,480,5,pantetheine-phosphate adenylyltransferase
+BW25113_3637,rpmB,0,3804798,3805034,-1,10,0.0210970464135021,237,5,50S ribosomal subunit protein L28
+BW25113_3639,dfp,0,3806091,3807311,1,106,0.0196560196560197,1221,24,fused 4'-phosphopantothenoylcysteine decarboxylase/phosphopantothenoylcysteine synthetase, FMN-binding
+BW25113_3640,dut,0,3807292,3807747,1,108,0.037280701754386,456,17,deoxyuridinetriphosphatase
+BW25113_3648,gmk,0,3814788,3815411,1,75,0.0256410256410256,624,16,guanylate kinase
+BW25113_3699,gyrB,0,3871065,3873479,-1,146,0.0178053830227743,2415,43,DNA gyrase, subunit B
+BW25113_3701,dnaN,0,3874581,3875681,-1,67,0.0227066303360581,1101,25,DNA polymerase III, beta subunit
+BW25113_3702,dnaA,0,3875686,3877089,-1,84,0.0192307692307692,1404,27,chromosomal replication initiator protein DnaA, DNA-binding transcriptional dual regulator
+BW25113_3703,rpmH,0,3877696,3877836,1,4,0.0283687943262411,141,4,50S ribosomal subunit protein L34
+BW25113_3704,rnpA,0,3877853,3878212,1,308,0.075,360,27,protein C5 component of RNase P
+BW25113_3705,yidC,0,3878436,3880082,1,253,0.0297510625379478,1647,49,membrane protein insertase
+BW25113_3729,glmS,0,3905199,3907028,-1,235,0.039344262295082,1830,72,L-glutamine:D-fructose-6-phosphate aminotransferase
+BW25113_3730,glmU,0,3907190,3908560,-1,182,0.024799416484318,1371,34,fused N-acetyl glucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyl transferase
+BW25113_3761,trpT,0,3940317,3940392,1,33,0.0789473684210526,76,6,
+BW25113_3783,rho,0,3959777,3961036,1,277,0.0198412698412698,1260,25,transcription termination factor
+BW25113_3793,wzyE,0,3971961,3973313,1,320,0.0310421286031042,1353,42,putative ECA polysaccharide chain elongation protein
+BW25113_3796,argX,0,3975735,3975811,1,2,0.012987012987013,77,1,
+BW25113_3797,hisR,0,3975869,3975945,1,2,0.012987012987013,77,1,
+BW25113_3799,proM,0,3976095,3976171,1,7,0.012987012987013,77,1,
+BW25113_3804,hemD,0,3982448,3983188,-1,158,0.0431848852901484,741,32,uroporphyrinogen III synthase
+BW25113_3805,hemC,0,3983185,3984126,-1,180,0.029723991507431,942,28,hydroxymethylbilane synthase
+BW25113_3809,dapF,0,3988122,3988946,1,363,0.0751515151515151,825,62,diaminopimelate epimerase
+BW25113_3833,ubiE,0,4012215,4012970,1,187,0.0648148148148148,756,49,bifunctional 2-octaprenyl-6-methoxy-1,4-benzoquinone methylase/ S-adenosylmethionine:2-DMK methyltransferase
+BW25113_3835,ubiB,0,4013586,4015226,1,134,0.0188909201706277,1641,31,regulator of octaprenylphenol hydroxylation, ubiquinone synthesis; regulator of 2'-N-acetyltransferase; putative ABC1 family protein kinase
+BW25113_3843,ubiD,0,4018348,4019841,1,285,0.0381526104417671,1494,57,3-octaprenyl-4-hydroxybenzoate decarboxylase
+BW25113_3850,hemG,0,4027968,4028513,1,51,0.021978021978022,546,12,protoporphyrin oxidase, flavoprotein
+BW25113_3865,yihA,0,4043493,4044125,-1,79,0.028436018957346,633,18,cell division GTP-binding protein
+BW25113_3936,rpmE,0,4116941,4117153,1,68,0.0657276995305164,213,14,50S ribosomal subunit protein L31
+BW25113_3967,murI,0,4155356,4156213,1,296,0.0233100233100233,858,20,glutamate racemase
+BW25113_3972,murB,0,4161985,4163013,1,78,0.0126336248785228,1029,13,UDP-N-acetylenolpyruvoylglucosamine reductase, FAD-binding
+BW25113_3973,birA,0,4163010,4163975,1,746,0.0424430641821946,966,41,bifunctional biotin-[acetylCoA carboxylase] holoenzyme synthetase/ DNA-binding transcriptional repressor, bio-5'-AMP-binding
+BW25113_3974,coaA,0,4164004,4164954,-1,248,0.0378548895899054,951,36,pantothenate kinase
+BW25113_3976,thrU,0,4165316,4165391,1,34,0.0263157894736842,76,2,
+BW25113_3978,glyT,0,4165601,4165675,1,4,0.04,75,3,
+BW25113_3981,secE,0,4167286,4167669,1,33,0.0234375,384,9,preprotein translocase membrane subunit
+BW25113_3982,nusG,0,4167671,4168216,1,121,0.0366300366300366,546,20,transcription termination factor
+BW25113_3983,rplK,0,4168375,4168803,1,36,0.0163170163170163,429,7,50S ribosomal subunit protein L11
+BW25113_3984,rplA,0,4168807,4169511,1,289,0.0524822695035461,705,37,50S ribosomal subunit protein L1
+BW25113_3985,rplJ,0,4169924,4170421,1,24,0.0180722891566265,498,9,50S ribosomal subunit protein L10
+BW25113_3986,rplL,0,4170488,4170853,1,8,0.00819672131147541,366,3,50S ribosomal subunit protein L7/L12
+BW25113_3987,rpoB,0,4171173,4175201,1,299,0.0131546289401837,4029,53,RNA polymerase, beta subunit
+BW25113_3988,rpoC,0,4175278,4179501,1,1263,0.0241477272727273,4224,102,RNA polymerase, beta prime subunit
+BW25113_3997,hemE,0,4187644,4188708,1,212,0.0253521126760563,1065,27,uroporphyrinogen decarboxylase
+BW25113_4040,ubiA,0,4242944,4243816,1,154,0.0355097365406644,873,31,p-hydroxybenzoate octaprenyltransferase
+BW25113_4041,plsB,0,4243971,4246394,-1,600,0.0235148514851485,2424,57,glycerol-3-phosphate O-acyltransferase
+BW25113_4043,lexA,0,4247043,4247651,1,207,0.0426929392446634,609,26,transcriptional repressor of SOS regulon
+BW25113_4052,dnaB,0,4254242,4255657,1,366,0.0240112994350282,1416,34,replicative DNA helicase
+BW25113_4621,yjbS,0,4258737,4258940,-1,62,0.0490196078431373,204,10,uncharacterized protein
+BW25113_4059,ssb,0,4264053,4264589,1,25,0.0111731843575419,537,6,single-stranded DNA-binding protein
+BW25113_4134,pheU,0,4352368,4352443,-1,27,0.0394736842105263,76,3,
+BW25113_4142,groS,0,4360505,4360798,1,13,0.0170068027210884,294,5,Cpn10 chaperonin GroES, small subunit of GroESL
+BW25113_4143,groL,0,4360842,4362488,1,152,0.0285367334547662,1647,47,Cpn60 chaperonin GroEL, large subunit of GroESL
+BW25113_4160,psd,0,4379209,4380177,-1,521,0.0546955624355005,969,53,phosphatidylserine decarboxylase
+BW25113_4161,rsgA,0,4380274,4381326,-1,334,0.0427350427350427,1053,45,ribosome small subunit-dependent GTPase A
+BW25113_4162,orn,0,4381421,4381966,1,129,0.032967032967033,546,18,oligoribonuclease
+BW25113_4168,tsaE,0,4385402,4385863,1,91,0.0303030303030303,462,14,tRNA(ANN) t(6)A37 threonylcarbamoyladenosine modification protein; ADP binding protein
+BW25113_4200,rpsF,0,4414935,4415330,1,6,0.0126262626262626,396,5,30S ribosomal subunit protein S6
+BW25113_4201,priB,0,4415337,4415651,1,410,0.0571428571428571,315,18,primosomal protein N
+BW25113_4202,rpsR,0,4415656,4415883,1,287,0.0526315789473684,228,12,30S ribosomal subunit protein S18
+BW25113_4226,ppa,0,4438939,4439469,-1,41,0.0169491525423729,531,9,inorganic pyrophosphatase
+BW25113_4258,valS,0,4470799,4473654,-1,206,0.0150560224089636,2856,43,valyl-tRNA synthetase
+BW25113_4261,lptF,0,4476035,4477135,1,152,0.0181653042688465,1101,20,lipopolysaccharide export ABC permease of the LptBFGC export complex
+BW25113_4262,lptG,0,4477135,4478217,1,168,0.0332409972299169,1083,36,lipopolysaccharide export ABC permease of the LptBFGC export complex
+BW25113_4361,dnaC,0,4590055,4590792,-1,60,0.0149051490514905,738,11,DNA biosynthesis protein
+BW25113_4362,dnaT,0,4590795,4591334,-1,77,0.0166666666666667,540,9,DNA biosynthesis protein (primosomal protein I)
+BW25113_4372,holD,0,4597620,4598033,1,81,0.0410628019323672,414,17,DNA polymerase III, psi subunit
