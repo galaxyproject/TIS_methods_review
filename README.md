@@ -9,7 +9,7 @@ Transposon Insertion Sequencing Analyses using Galaxy, BioConda and public resea
 
 This repository serves as a companion to our study assessing the computational tools for Transposon Insertion Sequencing analyses:
 
-> [Reproducible and accessible analysis of transposon1insertion data at scale](https://www.biorxiv.org/content/10.1101/2020.05.19.105429v1) Delphine Larivière, Laura Wickham, Kenneth Keiler, Anton Nekrutenko
+> [Reproducible and accessible analysis of transposon insertion data at scale](https://www.biorxiv.org/content/10.1101/2020.05.19.105429v1) Delphine Larivière, Laura Wickham, Kenneth Keiler, Anton Nekrutenko
 
 
 It contains descriptions of workflows and exact versions of all software used. The goals of this study were to:
